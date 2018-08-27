@@ -141,3 +141,5 @@ wepiao.com --- 微票票房数据
 www.toutiao.com --- 今日头条头条号文章数据
 
 www.umetrip.com --- 航旅纵横航班信息
+
+news.sina.com.cn --- 新浪国内新闻信息
